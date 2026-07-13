@@ -1,6 +1,3 @@
-streamlit==1.46.1
-keras==3.10.0
-numpy==2.1.3
-opencv-python-headless==4.12.0.88
-protobuf==5.29.6
-h5py
+streamlit
+numpy
+opencv-python
